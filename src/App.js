@@ -1,3 +1,4 @@
+// 6 components: advertisement, author info, article text content, comments button, share post button, journal title
 import React, { Component } from 'react';
 
 import './App.css';
@@ -8,7 +9,6 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
-        <div> testing</div>
 
       <main className="expanded row">
         <div className="large-8 medium-12 columns article">
