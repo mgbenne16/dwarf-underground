@@ -8,6 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
+        <div> testing</div>
 
       <main className="expanded row">
         <div className="large-8 medium-12 columns article">
